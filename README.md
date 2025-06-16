@@ -72,12 +72,6 @@ The study is divided into two main phases:
 
 ---
 
-## 📌 Conclusion
-
-While generative AI shows promise in automating supervised ML tasks, it is not yet a full replacement for traditional pipelines. With improved prompt engineering and better contextual understanding, LLMs may play a key role in democratizing machine learning development.
-
----
-
 ## 📄 Citation (TBA)
 
 ```
