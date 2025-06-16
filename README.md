@@ -64,11 +64,11 @@ The study is divided into two main phases:
 
 ## 📁 Contents
 
-- `/data/` – Sample datasets used (regression & classification)
-- `/prompts/` – Prompt templates used for LLM testing
-- `/notebooks/` – Code snippets and generated Python scripts from LLMs
-- `/results/` – Performance reports, accuracy & F1 score comparisons
-- `/paper.pdf` – Full research paper
+- `/MATLAB CODE/` – Code used in preparation of the datasets
+- `/figures/` – IMportant Figures of the findings
+- `/phase1 matlab/` – Content Affliated with Phase1 matlab
+- `/phase2 results/` – Content Affliated with Phase2 results
+- `/prompts` – Prompt Strategies used
 
 ---
 
