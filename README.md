@@ -38,6 +38,26 @@ The study is divided into two main phases:
   - **Python code generation** (syntax, correctness, ML pipeline logic)
 
 ---
+ 
+## 🗂️ Datasets Used
+
+### 📌 1. Laptop Price Prediction Dataset (Regression)
+- **Source**: [Kaggle - Laptop Price Dataset](https://www.kaggle.com/datasets/muhammetvarl/laptop-price)
+- **Size**: 1,320 entries
+- **Target**: Laptop price in Euros
+- **Features**: Manufacturer, screen size, resolution, CPU, RAM, memory type, OS, etc.
+- **Challenge**: High cardinality and mixed units in columns like CPU, GPU, and Memory.
+
+### 📌 2. Portuguese Bank Marketing Dataset (Classification)
+- **Source**: [Kaggle - Bank Marketing Campaign](https://www.kaggle.com/datasets/edith2021/bank-marketing-campaign?select=bank.csv)
+- **Size**: 45,211 entries
+- **Target**: Whether a client subscribed to a term deposit ("yes" or "no")
+- **Features**: Demographics, financial information, call duration, campaign success, etc.
+- **Challenge**: Strong class imbalance (~88% "no" vs 12% "yes")
+
+These datasets were used for training traditional ML models (baseline) and for evaluating LLM capabilities in preprocessing, training, and testing machine learning models.
+
+---
 
 ## 🧪 Key Findings
 
