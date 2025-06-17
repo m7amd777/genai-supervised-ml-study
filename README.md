@@ -1,6 +1,6 @@
 # A Study on Generative AI in Generating Supervised Machine Learning Models
 
-This repository contains the code, datasets, and analysis for the research paper **"A Study on Generative AI in Generating Supervised Machine Learning Models"** by Yousif Abuzuhaira, Mohamed Badawy, and Hasan Kadhem, presented at the American University of Bahrain.
+This repository contains the code, datasets, and analysis for the research paper **"A Study on Generative AI in Generating Supervised Machine Learning Models"** by Yousif Abuzuhaira, Mohamed Badawy, and Hasan Kadhem, presented at the International Conference on Intelligent Systems Design and Engineering Applications (ISDEA), representing the American University of Bahrain.
 
 ## 🧠 Motivation
 
